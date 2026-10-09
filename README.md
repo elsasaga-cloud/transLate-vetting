@@ -54,7 +54,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| **`PTP_and_TSN_Configuration_Manual_CLI_EN.docx`** | **✅ 英译交付稿（Word）**，A4，含目录、89 级标题层级、23 张原图、4 张表、27 条译者注 |
+| **`PTP_and_TSN_Configuration_Manual_CLI_EN.docx`** | **✅ 英译交付稿（Word）**，A4，含目录、四级标题层级（导航窗格可用）、23 张原图、4 张表、27 条译者注 |
 | **`PTP_and_TSN_Configuration_Manual_CLI_EN.pdf`** | **✅ 英译交付稿（PDF）**，41 页，带 89 条书签导航、页眉页脚 |
 
 ## 处理原则
