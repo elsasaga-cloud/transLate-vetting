@@ -55,6 +55,8 @@
 | 文件 | 说明 |
 |---|---|
 | **`PTP_and_TSN_Configuration_Manual_CLI_EN.docx`** | **✅ 英译交付稿（Word）**，A4，含目录、四级标题层级（导航窗格可用）、23 张原图、4 张表、27 条译者注 |
+
+| **`FR-PTP3412-Datasheet.docx`** | **✅ FR-PTP3412 产品 datasheet 的 Word 版**（源 `FR-PTP3412-Datasheet.pdf`，6 页）：封面整页保真；正文全可编辑——概述 7 段、硬件/软件规格表、尺寸图、订购信息表、选配件、注意事项 7 条；源文每一行内容 0 缺失 |
 | **`PTP_and_TSN_Configuration_Manual_CLI_EN.pdf`** | **✅ 英译交付稿（PDF）**，41 页，带 89 条书签导航、页眉页脚 |
 
 ## 处理原则
